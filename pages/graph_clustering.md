@@ -60,7 +60,7 @@ ox.plot_graph(G)
 ```
 
 
-![png](output_4_0.png)
+![png](graph_clustering/output_4_0.png)
 
 
 
@@ -543,7 +543,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_13_0.png)
+![png](graph_clustering/output_13_0.png)
 
 
 
@@ -1539,7 +1539,7 @@ plot_gdfs(gdf_means, gdf_edges) # improve
 ```
 
 
-![png](output_19_0.png)
+![png](graph_clustering/output_19_0.png)
 
 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
@@ -1590,7 +1590,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_26_0.png)
+![png](graph_clustering/output_26_0.png)
 
 
 get the new centroids
@@ -1627,7 +1627,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_31_0.png)
+![png](graph_clustering/output_31_0.png)
 
 
 So, that was fun, let's tidy this all up and put it into some functions.
@@ -1690,7 +1690,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_37_0.png)
+![png](graph_clustering/output_37_0.png)
 
 
 
@@ -1704,7 +1704,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_39_0.png)
+![png](graph_clustering/output_39_0.png)
 
 
 
@@ -1718,7 +1718,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_41_0.png)
+![png](graph_clustering/output_41_0.png)
 
 
 
@@ -1732,7 +1732,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_43_0.png)
+![png](graph_clustering/output_43_0.png)
 
 
 
@@ -1746,7 +1746,7 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_45_0.png)
+![png](graph_clustering/output_45_0.png)
 
 
 Notice how the last two plots didn't really change? This is becase the algorithm has converged upon a solution, so let's modify the code to terminate once this convergence has occured.
@@ -1789,5 +1789,5 @@ plot_gdfs(gdf_nodes, gdf_edges)
 ```
 
 
-![png](output_49_0.png)
+![png](graph_clustering/output_49_0.png)
 
