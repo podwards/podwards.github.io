@@ -6,7 +6,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
 - [Overview](pages/overview.html)
-- [Graph clustering](pages/graph_clustering.html)
+- [Graph clustering](pages/graph_clustering/graph_clustering.html)
 
 ---
 
